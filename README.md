@@ -1,7 +1,3 @@
-[Luganda Time](https://github.com/mukama/luganda-time) is areact native app that converts normal time to time in Luganda which is a native Ugandan language.
-
-Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
-
 ## Table of Contents
 
 * [Background](#background)
@@ -34,6 +30,8 @@ In the tropics we do not have seasons! It's almost alway 12 hours of day light a
 For example, 8AM in the morning becomes "Hour 2 in the morning" and 3 AM, "Hour 9 in the night".
 
 ![Luganda Time iOS Screenshot](https://raw.githubusercontent.com/mukama/luganda-time/master/screenshot.png)
+
+Below you'll find information about performing common tasks. 
 
 ## Available Scripts
 
